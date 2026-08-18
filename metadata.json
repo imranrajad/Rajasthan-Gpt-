@@ -1,0 +1,6 @@
+{
+  "name": "Rajasthan Gpt",
+  "description": "AI-powered chat assistant tailored for Rajasthani language, heritage, history, culture, and translation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
